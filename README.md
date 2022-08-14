@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me ... 
-https://www.linkedin.com/in/crljhnmngs/
+https://www.linkedin.com/in/crljhnmngs/ ||
 manigoscarljohn@gmail.com
 
 <!---
