@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carl John Manigos
 - 👀 I’m interested in building web apps and softwares
 - 🌱 I’m currently learning Javascript and Tailwind CSS
-- 💞️ I’m looking to collaborate on open-source projects
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me ... 
 https://www.linkedin.com/in/crljhnmngs/ ||
 manigoscarljohn@gmail.com
