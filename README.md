@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carl John Manigos
 - 👀 I’m interested in building Web apps and Softwares
-- 🌱 I’m currently learning ReactJS and ASP.net Core Web API
+- 🌱 I’m currently learning ReactJS and ASP.NET Core Web API
 - 📫 How to reach me ... 
 https://www.linkedin.com/in/crljhnmngs/ ||
 manigoscarljohn@gmail.com
