@@ -9,7 +9,7 @@ manigoscarljohn@gmail.com
 
 <h2> Skills  </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,cs,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,cs,php,mysql,dotnet,react,ts,git)](https://skillicons.dev)
 
 
 
