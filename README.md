@@ -23,6 +23,6 @@ manigoscarljohn@gmail.com
 
 - <h3> 🛠️</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=git,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
