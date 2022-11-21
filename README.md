@@ -9,8 +9,6 @@ manigoscarljohn@gmail.com
 
 <h2> Skills 🛠️</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,dotnet,sass,tailwind,cs,php,mysql,git)](https://skillicons.dev)
-
 <h3> Front End 🛠️</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwind,mui)](https://skillicons.dev)
@@ -18,5 +16,8 @@ manigoscarljohn@gmail.com
 <h3> Back End 🛠️</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,php,mysql)](https://skillicons.dev)
+
+<h3> Software 🛠️</h3> 
+[![My Skills](https://skillicons.dev/icons?i=cs,mysql,git)](https://skillicons.dev)
 
 
