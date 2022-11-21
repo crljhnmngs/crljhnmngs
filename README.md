@@ -15,4 +15,8 @@ manigoscarljohn@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,sass,tailwind,mui)](https://skillicons.dev)
 
+<h3> Back End 🛠️</h3> 
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,php,mysql)](https://skillicons.dev)
+
 
