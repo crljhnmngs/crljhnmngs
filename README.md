@@ -21,4 +21,8 @@ manigoscarljohn@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=cs,mysql,git)](https://skillicons.dev)
 
+- <h3> 🛠️</h3> 
+
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+
 
