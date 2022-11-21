@@ -18,6 +18,7 @@ manigoscarljohn@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=dotnet,php,mysql)](https://skillicons.dev)
 
 <h3> Software 🛠️</h3> 
+
 [![My Skills](https://skillicons.dev/icons?i=cs,mysql,git)](https://skillicons.dev)
 
 
