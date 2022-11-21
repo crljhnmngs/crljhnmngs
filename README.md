@@ -17,9 +17,9 @@ manigoscarljohn@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,php,mysql)](https://skillicons.dev)
 
-- <h3> Software 🛠️</h3> 
+- <h3> Desktop 🛠️</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
 
 - <h3> 🛠️</h3> 
 
