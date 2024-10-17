@@ -10,11 +10,11 @@ manigoscarljohn@gmail.com
 
 - <h3> Front End 🛠️</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,html,css,js,sass,tailwind,mui)](https://skillicons.dev)
 
  - <h3> Back End 🛠️</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,asp.net,c++,mysql)](https://skillicons.dev)
 
 - <h3> Desktop 🛠️</h3> 
 
@@ -22,6 +22,6 @@ manigoscarljohn@gmail.com
 
 - <h3> 🛠️</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,svn,postman)](https://skillicons.dev)
 
 
