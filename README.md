@@ -1,22 +1,33 @@
-- 👋 Hi, I’m Carl John Manigos
-- 👀 I’m interested in building Web apps
-- 📫 How to reach me ... 
-https://www.linkedin.com/in/crljhnmngs/ ||
-manigoscarljohn@gmail.com
+<h1 align="center">Hi 👋, I'm Carl John Manigos</h1>
+<h3 align="center">A passionate frontend developer from Philippines.</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crljhnmngs&label=Profile%20views&color=0e75b6&style=flat" alt="crljhnmngs" /> </p>
 
-<h2> Skills 🛠️</h2> 
+- 🌱 I’m currently learning **Next.js, Firebase, and Jest**
 
-- <h3> Front End 🛠️</h3> 
+- 👨‍💻 All of my projects are available at [https://crljhnmngs.vercel.app/](https://crljhnmngs.vercel.app/)
+
+- 📫 How to reach me **manigoscarljohn@gmail.com** || **https://www.linkedin.com/in/crljhnmngs/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/crljhnmngs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crljhnmngs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/crljhnmngs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crljhnmngs" height="30" width="40" /></a>
+<a href="https://fb.com/crljhnmngs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="crljhnmngs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/crljhnmngs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crljhnmngs" height="30" width="40" /></a>
+</p>
+
+<h3> Skills 🛠️</h3> 
+
+- <h3> Front End </h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,html,css,js,sass,tailwind,mui,bootstrap)](https://skillicons.dev)
 
- - <h3> Back End 🛠️</h3> 
+ - <h3> Back End </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=php,cs,dotnet,cpp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,php,cpp,mysql)](https://skillicons.dev)
 
-- <h3> Desktop 🛠️</h3> 
+- <h3> Desktop </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
 
@@ -24,4 +35,8 @@ manigoscarljohn@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=git,npm,postman,vscode,visualstudio)](https://skillicons.dev)
 
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crljhnmngs&show_icons=true&locale=en" alt="crljhnmngs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crljhnmngs&" alt="crljhnmngs" /></p>
