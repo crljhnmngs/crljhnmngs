@@ -21,11 +21,11 @@
 
 - <h3> Front End </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,html,css,js,sass,tailwind,mui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,html,css,js,sass,tailwind,mui,bootstrap,jest)](https://skillicons.dev)
 
  - <h3> Back End </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,php,cpp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,php,cpp,mysql,firebase)](https://skillicons.dev)
 
 - <h3> Desktop </h3>
 
