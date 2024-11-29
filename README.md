@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crljhnmngs&theme=noctis_minimus&show_icons=true&locale=en" alt="crljhnmngs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crljhnmngs&theme=noctis_minimus&" alt="crljhnmngs" /></p>
+
+<a href="https://app.daily.dev/crljhnmngs"><img src="https://api.daily.dev/devcards/v2/7rUNevLkayJ2KBiI7MsCO.png?r=ifl&type=default" width="356" alt="Carl John Manigos's Dev Card"/></a>
