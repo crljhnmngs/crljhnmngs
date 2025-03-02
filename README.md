@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carl John Manigos</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
+<h3 align="center">A passionate Software Engineer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crljhnmngs&label=Profile%20views&color=0e75b6&style=flat" alt="crljhnmngs" /> </p>
 
@@ -21,11 +21,11 @@
 
 - <h3> Front End </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,jest,html,css,js,sass,tailwind,mui,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,vite,redux,jest,html,css,js,sass,tailwind,mui,bootstrap,)](https://skillicons.dev)
 
  - <h3> Back End </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,php,cpp,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,dotnet,cs,php,cpp,mysql,firebase)](https://skillicons.dev)
 
 - <h3> Desktop </h3>
 
