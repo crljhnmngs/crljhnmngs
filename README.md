@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Next.js, Firebase, and Jest**
 
+- 🔭 I’m currently working on [fullstack-boilerplate](https://github.com/crljhnmngs/fullstack-boilerplate)
+
 - 👨‍💻 All of my projects are available at [https://crljhnmngs.vercel.app/](https://crljhnmngs.vercel.app/)
 
 - 📫 How to reach me **manigoscarljohn@gmail.com** || **https://www.linkedin.com/in/crljhnmngs/**
