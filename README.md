@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crljhnmngs&label=Profile%20views&color=0e75b6&style=flat" alt="crljhnmngs" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Firebase, and Jest**
+- 🌱 I’m currently learning **Next.js, Supabase, and Jest**
 
-- 🔭 I’m currently working on [fullstack-boilerplate](https://github.com/crljhnmngs/fullstack-boilerplate)
+- 🔭 I’m currently working on [socia-lite](https://github.com/crljhnmngs/socia-lite)
 
 - 👨‍💻 All of my projects are available at [crljhnmng.dev](https://crljhnmng.dev/)
 
