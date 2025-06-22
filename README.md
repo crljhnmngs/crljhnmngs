@@ -37,7 +37,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,npm,postman,vscode,visualstudio)](https://skillicons.dev)
 
-<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crljhnmngs&show_icons=true&locale=en&layout=compact&exclude_repo=yoo&theme=noctis_minimus" alt="crljhnmngs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crljhnmngs&theme=noctis_minimus&show_icons=true&locale=en" alt="crljhnmngs" /></p>
 
