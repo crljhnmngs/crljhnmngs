@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Supabase, and Jest**
 
-- 🔭 I’m currently working on [socia-lite](https://github.com/crljhnmngs/socia-lite)
+- 🔭 I’m currently working on [portfolio-admin](https://github.com/crljhnmngs/portfolio-admin)
 
 - 👨‍💻 All of my projects are available at [crljhnmng.dev](https://crljhnmng.dev/)
 
