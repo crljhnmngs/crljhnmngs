@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crljhnmngs&label=Profile%20views&color=0e75b6&style=flat" alt="crljhnmngs" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Supabase, and Jest**
+- 🌱 I’m currently learning **Next.js, PostgreSQL, Supabase, and Jest**
 
 - 🔭 I’m currently working on [portfolio-admin](https://github.com/crljhnmngs/portfolio-admin)
 
