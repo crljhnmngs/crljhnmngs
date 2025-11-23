@@ -21,8 +21,11 @@
 
 <h3> Skills 🛠️</h3> 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,vite,redux,jest,html,css,js,sass,tailwind,mui,bootstrap,)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,dotnet,cs,php,cpp,mysql,firebase)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=git,npm,postman,vscode,visualstudio)](https://skillicons.dev)
 
 
