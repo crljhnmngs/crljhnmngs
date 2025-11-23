@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,prisma,vite,redux,jest,html,css,sass,tailwind,mui,bootstrap,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,dotnet,cs,php,java,cpp,postgres,mysql,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,dotnet,cs,php,java,cpp,postgres,mysql,mongodb,supabase,firebase)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,npm,yarn,postman,vscode,docker,visualstudio,figma,notion)](https://skillicons.dev)
 
